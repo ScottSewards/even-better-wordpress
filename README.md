@@ -1,4 +1,6 @@
+# Even Better WordPress
 
+## API
 stick_post : bool
 This function adds a post to sticky posts and returns a boolean, true if post is sticky, false if post is not sticky.
 
@@ -7,4 +9,4 @@ This function removes a post from sticky posts and returns a boolean, true if po
 
 stick_posts : bool
 
-unstick_posts
+unstick_posts : void
